@@ -1,0 +1,30 @@
+.recordsList{
+    width: 100%;
+    border: 1px solid black;
+    min-height: 40px;
+    max-height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    list-style: none;
+    overflow-y: auto;
+}
+
+.record{
+    display: flex;
+    justify-content: space-between;
+}
+.record+.record{
+    margin-top: 20px;
+}
+.buttonsRow{
+
+}
+.button{
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+
+.button + .button{
+    margin-left: 5px;
+}

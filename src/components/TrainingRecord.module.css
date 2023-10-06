@@ -1,0 +1,46 @@
+.inputRow{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    padding: 10px;
+}
+
+.trainingRecord{
+    padding: 30px;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    font-family: sans-serif;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+.widgetTitle{
+    text-align: center;
+    font-weight: lighter;
+}
+
+.form{
+    display: flex;
+    column-gap: 10px;
+}
+.okButton{
+    cursor: pointer;
+    border: none;
+    padding: 11px 15px;
+    align-self: end;
+    background-color: #5380F7;
+    color: white;
+    text-transform: uppercase;
+}
+
+.headersRow{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 20px;
+    padding: 0 10px;
+}
