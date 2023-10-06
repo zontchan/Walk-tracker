@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Walk-tracker/static/css/main.deccd472.css",
+    "main.js": "/Walk-tracker/static/js/main.536c7e1a.js",
+    "index.html": "/Walk-tracker/index.html",
+    "main.deccd472.css.map": "/Walk-tracker/static/css/main.deccd472.css.map",
+    "main.536c7e1a.js.map": "/Walk-tracker/static/js/main.536c7e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deccd472.css",
+    "static/js/main.536c7e1a.js"
+  ]
+}
