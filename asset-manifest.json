@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Walk-tracker/static/css/main.deccd472.css",
-    "main.js": "/Walk-tracker/static/js/main.536c7e1a.js",
+    "main.css": "/Walk-tracker/static/css/main.81a45f8d.css",
+    "main.js": "/Walk-tracker/static/js/main.f168a99a.js",
     "index.html": "/Walk-tracker/index.html",
-    "main.deccd472.css.map": "/Walk-tracker/static/css/main.deccd472.css.map",
-    "main.536c7e1a.js.map": "/Walk-tracker/static/js/main.536c7e1a.js.map"
+    "main.81a45f8d.css.map": "/Walk-tracker/static/css/main.81a45f8d.css.map",
+    "main.f168a99a.js.map": "/Walk-tracker/static/js/main.f168a99a.js.map"
   },
   "entrypoints": [
-    "static/css/main.deccd472.css",
-    "static/js/main.536c7e1a.js"
+    "static/css/main.81a45f8d.css",
+    "static/js/main.f168a99a.js"
   ]
 }
