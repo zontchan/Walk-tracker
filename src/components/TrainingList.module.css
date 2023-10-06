@@ -12,12 +12,13 @@
 .record{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .record+.record{
     margin-top: 20px;
 }
 .buttonsRow{
-
+ font-size: 20px;
 }
 .button{
     border: none;

@@ -73,8 +73,8 @@ export default function TrainingRecord() {
             </form>
            <div className={styles.output}>
                <ul className={styles.headersRow}>
-                   <li>Дата (ДД.ММ.ГГ)</li>
-                   <li>Пройдено км</li>
+                   <li>Дата</li>
+                   <li>Км</li>
                    <li>Действия</li>
                </ul>
                <TrainingsList trainings={training} onEdit={handleEdit} onDelete={handleDelete}/>

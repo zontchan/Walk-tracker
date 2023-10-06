@@ -40,7 +40,21 @@
     list-style: none;
     display: flex;
     justify-content: space-between;
+    gap: 25px;
 
     margin-bottom: 20px;
     padding: 0 10px;
+}
+
+@media (max-width: 600px) {
+ .form{
+     flex-direction: column;
+ }
+    .inputRow + .inputRow{
+        margin-top: 20px;
+    }
+    .okButton{
+       margin-top: 20px;
+        align-self: center;
+    }
 }
